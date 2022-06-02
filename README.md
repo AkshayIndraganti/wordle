@@ -9,7 +9,7 @@ Famous Wordle Game using React-js
 Run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
 ```bash
-git clone https://github.com/AkshayIndraganti/jobify.git
+git clone https://github.com/AkshayIndraganti/wrodle.git
 ```
 
 # Install Dependencies
